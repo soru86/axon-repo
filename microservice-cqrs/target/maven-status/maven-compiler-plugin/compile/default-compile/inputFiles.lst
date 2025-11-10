@@ -1,0 +1,17 @@
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/AxonMicroserviceApplication.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/aggregate/OrderAggregate.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/api/OrderCommandController.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/api/OrderQueryController.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/api/dto/CreateOrderRequest.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/api/dto/RejectOrderRequest.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/command/ApproveOrderCommand.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/command/CreateOrderCommand.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/command/RejectOrderCommand.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/events/OrderApprovedEvent.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/events/OrderCreatedEvent.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/events/OrderRejectedEvent.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/query/handlers/OrderProjection.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/query/model/OrderSummary.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/query/queries/FindAllOrdersQuery.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/query/queries/FindOrderQuery.java
+/Users/soru86/Documents/ALL_WORK/ALL_CODE/axon-repo/microservice-cqrs/src/main/java/com/example/axonmicroservice/query/queries/OrderSummaryRepository.java
